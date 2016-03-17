@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>20131105783于丹丹.xcscheme</key>
+		<key>testadd.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>33C9A0031C96DEA000E67BE8</key>
+		<key>33AC45B71C9A4B5500D07B1B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>33AC45CC1C9A4B5500D07B1B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

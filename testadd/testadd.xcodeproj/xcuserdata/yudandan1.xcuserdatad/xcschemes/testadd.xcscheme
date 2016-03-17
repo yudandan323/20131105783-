@@ -14,10 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "33C9A0031C96DEA000E67BE8"
-               BuildableName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-               BlueprintName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-               ReferencedContainer = "container:20131105783&#x4e8e;&#x4e39;&#x4e39;.xcodeproj">
+               BlueprintIdentifier = "33AC45B71C9A4B5500D07B1B"
+               BuildableName = "testadd.app"
+               BlueprintName = "testadd"
+               ReferencedContainer = "container:testadd.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "33AC45CC1C9A4B5500D07B1B"
+               BuildableName = "testaddTests.xctest"
+               BlueprintName = "testaddTests"
+               ReferencedContainer = "container:testadd.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +42,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "33AC45CC1C9A4B5500D07B1B"
+               BuildableName = "testaddTests.xctest"
+               BlueprintName = "testaddTests"
+               ReferencedContainer = "container:testadd.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "33C9A0031C96DEA000E67BE8"
-            BuildableName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-            BlueprintName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-            ReferencedContainer = "container:20131105783&#x4e8e;&#x4e39;&#x4e39;.xcodeproj">
+            BlueprintIdentifier = "33AC45B71C9A4B5500D07B1B"
+            BuildableName = "testadd.app"
+            BlueprintName = "testadd"
+            ReferencedContainer = "container:testadd.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "33C9A0031C96DEA000E67BE8"
-            BuildableName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-            BlueprintName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-            ReferencedContainer = "container:20131105783&#x4e8e;&#x4e39;&#x4e39;.xcodeproj">
+            BlueprintIdentifier = "33AC45B71C9A4B5500D07B1B"
+            BuildableName = "testadd.app"
+            BlueprintName = "testadd"
+            ReferencedContainer = "container:testadd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "33C9A0031C96DEA000E67BE8"
-            BuildableName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-            BlueprintName = "20131105783&#x4e8e;&#x4e39;&#x4e39;"
-            ReferencedContainer = "container:20131105783&#x4e8e;&#x4e39;&#x4e39;.xcodeproj">
+            BlueprintIdentifier = "33AC45B71C9A4B5500D07B1B"
+            BuildableName = "testadd.app"
+            BlueprintName = "testadd"
+            ReferencedContainer = "container:testadd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
